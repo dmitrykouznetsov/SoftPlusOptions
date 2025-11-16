@@ -1,5 +1,9 @@
 # SoftPlus Options
 
+<div align="center">
+  <img src="https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/icon_rounded.png" alt="Image" style="border-radius: 50%; width: 150px; height: 150px;">
+</div><br>
+
 Offline-first, privacy-focused options payoff and volatility surface simulator.
 Explore payoff diagrams for any option combination interactively using the Softplus pricing model (a quick and dirty approximation that avoids Black-Scholes rigidity).
 Markets are uncertain — no model is the ultimate truth.
@@ -13,6 +17,9 @@ Features:
 
 - No tracking, no data ever leaves your machine.
 
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+| :---: | :---: | :---: |
+| ![1](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/1.png) | ![2](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/2.png) | ![3](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/3.png) |
 # Contribution
 
 Contributions are welcome! How can you contribute?
