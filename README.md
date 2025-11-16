@@ -19,7 +19,7 @@ Features:
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 | :---: | :---: | :---: |
-| ![1](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/1.png) | ![2](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/2.png) | ![3](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/3.png) |
+| ![1](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/d53513d4b6637654141693f17d8899aad1200e60/metadata/android/en-US/images/phoneScreenshots/1.png) | ![2](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/d53513d4b6637654141693f17d8899aad1200e60/metadata/android/en-US/images/phoneScreenshots/2.png) | ![3](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/d53513d4b6637654141693f17d8899aad1200e60/metadata/android/en-US/images/phoneScreenshots/3.png) |
 
 ## Contribution
 
