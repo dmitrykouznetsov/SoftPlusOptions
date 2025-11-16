@@ -1,0 +1,1 @@
+Offline-first, privacy-focused options payoff and volatility surface simulator.
