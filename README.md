@@ -1,0 +1,32 @@
+# SoftPlus Options
+
+Offline-first, privacy-focused options payoff and volatility surface simulator.
+Explore payoff diagrams for any option combination interactively using the Softplus pricing model (a quick and dirty approximation that avoids Black-Scholes rigidity).
+Markets are uncertain — no model is the ultimate truth.
+That’s why this app is built for play and intuition: tweak the volatility surface and instantly see how shocks, skew changes, term-structure shifts, or full volatility regime changes affect your strategy.
+
+Features:
+
+- Financial modeling of option prices linked to an interactive volatility surface.
+
+- Navigate and stress-test strategies across realistic market volatility scenarios.
+
+- No tracking, no data ever leaves your machine.
+
+# Contribution
+
+Contributions are welcome! How can you contribute?
+
+- Report issues/bugs: We can only fix issues that we know about. Please check the issue tracker on Github and if it doesn't already exist, report it there.
+
+- Contribute code: Pull requests are always welcome.
+
+- Do you have an idea? Open an Issue on Github. I am always open to new ideas.
+
+- Share the App with family and friends.
+
+# Discaimer
+
+THIS APPLICATION IS STRICTLY FOR EDUCATIONAL AND ILLUSTRATIVE PURPOSES ONLY. IT IS NOT A FINANCIAL ADVISORY TOOL, INVESTMENT ADVISORY SERVICE, OR TRADING PLATFORM.
+
+All models, calculations, pricing tools, simulations, and outputs provided within this app are simplified "toy models" designed exclusively to help users build intuition about financial derivatives, volatility dynamics, risk management concepts, and mathematical relationships in options pricing. They are deliberately stylized, contain numerous simplifying assumptions, and do not reflect real-world market frictions, transaction costs, liquidity constraints, regulatory requirements, or actual executable prices.
