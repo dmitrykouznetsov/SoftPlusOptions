@@ -20,7 +20,8 @@ Features:
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 | :---: | :---: | :---: |
 | ![1](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/1.png) | ![2](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/2.png) | ![3](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/e8c43bad68906f3bcc064eb3daa20d5e03b0c0af/assets/images/screenshots/3.png) |
-# Contribution
+
+## Contribution
 
 Contributions are welcome! How can you contribute?
 
@@ -32,7 +33,15 @@ Contributions are welcome! How can you contribute?
 
 - Share the App with family and friends.
 
-# Discaimer
+## How can I donate and sponsor the project?
+
+Any donation is welcome, thanks for your support! If you wish to donate, you can do it in the following ways:
+
+- Monero: `453F8pwHQsHgSwbuzTR16kYnBLXwsJSnY5SNZx2Cd9Mn9C3r1nyqEMkfvzRsxHi6SrZcc5d4MMMmgMjZTriEBchd7e1iw54`
+
+- Bitcoin: `bc1qqwf3pc80arn3km6nxsn5dnqzk4x5nnersxv520?` 
+
+## Discaimer
 
 THIS APPLICATION IS STRICTLY FOR EDUCATIONAL AND ILLUSTRATIVE PURPOSES ONLY. IT IS NOT A FINANCIAL ADVISORY TOOL, INVESTMENT ADVISORY SERVICE, OR TRADING PLATFORM.
 
