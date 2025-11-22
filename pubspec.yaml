@@ -2,7 +2,7 @@ name: softplus_options
 description: "Financial modeling of option prices using volatility surface. Navigate market volatility scenarios with confidence."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-version: 0.5.0+5
+version: 0.5.1+6
 
 environment:
   sdk: ^3.9.2
