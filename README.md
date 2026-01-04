@@ -17,6 +17,8 @@ Features:
 
 - No tracking, no data ever leaves your machine.
 
+<a href='https://f-droid.org/en/packages/com.github.dmitrykouznetsov.softplusoptions/'><img alt='Get it on F-Droid' src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png' width='150'/></a>
+
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 | :---: | :---: | :---: |
 | ![1](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/d53513d4b6637654141693f17d8899aad1200e60/metadata/android/en-US/images/phoneScreenshots/1.png) | ![2](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/d53513d4b6637654141693f17d8899aad1200e60/metadata/android/en-US/images/phoneScreenshots/2.png) | ![3](https://github.com/dmitrykouznetsov/SoftPlusOptions/blob/d53513d4b6637654141693f17d8899aad1200e60/metadata/android/en-US/images/phoneScreenshots/3.png) |
